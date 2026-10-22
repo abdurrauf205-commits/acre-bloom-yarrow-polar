@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Threadline",
+      "hasCanvas": false,
+      "bodyTextLen": 1739,
+      "bodyTextHash": "58b3f05e2519b760d79ad56f6c8a3371c7506826ab7a1bfd15dd30aa1c941c5f",
+      "bodyTextPrefix": "T Threadline Northline Apparel · WhatsApp follow-up Thu 22 Oct ·",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Threadline",
+      "hasCanvas": false,
+      "bodyTextLen": 605,
+      "bodyTextHash": "370218be5c7876cb340047602ba2970ac75fe7eb0e7f4030bd83914b8feac078",
+      "bodyTextPrefix": "T Threadline Northline Apparel · WhatsApp follow-up Send 3 due O",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
